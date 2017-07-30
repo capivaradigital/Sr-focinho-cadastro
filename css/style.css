@@ -1,0 +1,18 @@
+body{
+    background-color: #191919;
+}
+.button{
+    text-align: center;
+    margin-top: 4%;
+}
+.container{
+    margin-top: 7%;
+}
+.content{
+    background-color: #f6f6f6;
+    padding: 2%;
+    border-radius: 1%;
+}
+.btn-send{
+    border-radius: 0;
+}
