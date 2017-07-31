@@ -22,7 +22,7 @@ function setValues(name, cidade, estado, phone_1, phone_2, fbURL, instaURL, ttUR
         });
     }
     else {
-        ref.child('usuarios/' + name).set({
+        ref.child('Local/' + name).set({
             nome: name,
             cidade: cidade,
             estado: estado,
